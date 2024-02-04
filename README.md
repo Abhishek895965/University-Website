@@ -9,7 +9,7 @@ This webpage features a responsive University website design. The navigation men
 - Sections for showcasing courses, campus, facilities, testimonials, and more.
 - Contact form for user interaction.
 
-- ScreenShots:-
+  # ScreenShots:-
   
 ![Screenshot (1800)](https://github.com/Abhishek895965/University-Website/assets/132393553/aee79d5e-076f-47c7-9dde-6134d0a2c83f)
 ![Screenshot (1801)](https://github.com/Abhishek895965/University-Website/assets/132393553/423b558e-743a-4824-932d-2a22cb49c3de)
